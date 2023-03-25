@@ -2,7 +2,8 @@
 
 pkg install python2 git
 rm -rf decrypt
-git clone https://github.com/Naim75o/decrypt
+git clone https://github.com/DemonVau/Decrypt
+
 python2 -m pip install xdis==5.0.11
 python2 -m pip install uncompyle6==3.7.4
 
