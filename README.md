@@ -34,4 +34,4 @@ python2 setup.py install
 
 how to Decrypt? Clone The exes File Repo
 And enter The File 🗄️
-type: Demon file.py
+type: Demon_Decrypt file.py
