@@ -29,6 +29,7 @@ python2 -m pip install uncompyle6==3.7.4
 # USAGES
 
 cd decrypt
+
 python2 setup.py install
 
 how to Decrypt? Clone The exes File Repo
